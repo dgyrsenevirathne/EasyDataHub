@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DapperMvcDemo.Web.props" />
+</Project>
